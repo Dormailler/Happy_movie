@@ -35,8 +35,6 @@ http://129.154.52.123:8080/happy_movie/main
 영화진흥위원회 api, 네이버 검색 api
 
 
-### 커뮤니티 게시판 -> [주요 기능 (커뮤니티 게시판)](https://github.com/Dormailler/team03_final_project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-(%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B2%8C%EC%8B%9C%ED%8C%90))
-
 # 내가 구현한 기능
 ● 영화진흥위원회 api를 이용하여 현재 상영중인 영화의 박스오피스 순위를 불러와서 10위까지 표시(DB에 없을시 추가)
 
