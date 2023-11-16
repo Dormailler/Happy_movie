@@ -1,4 +1,4 @@
-# happymovie
+# HAPPYMOVIE
 http://129.154.52.123:8080/happy_movie/main
 # 💻 코딩이최고조 프로젝트
 : 영화 정보 제공 사이트입니다.
